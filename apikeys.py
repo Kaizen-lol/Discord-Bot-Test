@@ -1,0 +1,1 @@
+key = "YOUR_BOT_TOKEN_HERE"
