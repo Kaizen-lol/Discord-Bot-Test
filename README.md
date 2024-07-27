@@ -7,8 +7,10 @@
 3. Use commands like !check "username" (example. !check Kaizen)
 4. Done!
 
+
 #Preview: 
-  ![image](https://github.com/user-attachments/assets/a7c7bff3-6eeb-4122-b02f-3c0acfcf6743)
+
+![image](https://github.com/user-attachments/assets/a7c7bff3-6eeb-4122-b02f-3c0acfcf6743)
 
 #I might add more sites to the check so it can actually become useful. 
 
